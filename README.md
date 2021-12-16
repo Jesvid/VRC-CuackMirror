@@ -6,6 +6,8 @@ Espejo simple estatico.
 Espejo simple estatico que se auto apaga cuando te alejas.
 Espejo tomable que se auto apaga cuando te alejas.
 
+# Descargar:
+https://github.com/Jesvid/VRC-CuackMirror/releases/latest
 
 
 # Requerimientos:
