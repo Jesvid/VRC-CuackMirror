@@ -3,8 +3,10 @@ VRChat cuack mirror es un prefab de espejo en un canvas ui de unity con 4 difere
 
 Tipos de espejos:
 Espejo simple estatico.
+Espejo simple estatico (sin transparente)
 Espejo simple estatico que se auto apaga cuando te alejas.
 Espejo tomable que se auto apaga cuando te alejas.
+
 
 # Descargar:
 https://github.com/Jesvid/VRC-CuackMirror/releases/latest
