@@ -25,5 +25,5 @@ https://github.com/acertainbluecat/VRCPlayersOnlyMirror
 
 Creditos apreciados pero no requeridos.
 
-# Licences
-© 2021,2022. This work is licensed under a CC BY-NC 4.0 license.
+# License:
+© MIT License Copyright (c) 2022 Jesvid
