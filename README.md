@@ -1,11 +1,15 @@
-# VRC-CuackMirror
+# VRC CuackMirror
 VRChat cuack mirror es un prefab de espejo en un canvas ui de unity con 4 diferentes opciones de espejos (LQ, HQ, HQ no UI, Transparente).
 
 Tipos de espejos:
-Espejo simple estatico.
-Espejo simple estatico (sin transparente)
-Espejo simple estatico que se auto apaga cuando te alejas.
-Espejo tomable que se auto apaga cuando te alejas.
+
+-VRC CuackMirror Pickup = Espejo tomable que se auto apaga cuando te alejas.
+
+-VRC CuackMirror_ToggleOnExit = Espejo simple estatico que se auto apaga cuando te alejas.
+
+-VRC CuackMirror = Espejo simple estatico.
+
+-VRC CuackMirror_NoTrans = Espejo simple estatico (sin transparente).
 
 
 # Descargar:
